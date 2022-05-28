@@ -65,9 +65,9 @@ public class TestClass {
 		System.out.println("after Suite TestClass 1");
 	}
 
-	@AfterTest
-	public void afterTest() {
-		System.out.println("After Test TestClass 1");
-	}
+//	@AfterTest
+//	public void afterTest() {
+//		System.out.println("After Test TestClass 1");
+//	}
 
 }
